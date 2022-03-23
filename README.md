@@ -1,28 +1,10 @@
 
-
-  <br>
-
-<p align=center>
-  <a href="https://www.instagram.com/seefu.x"><img title="Made in iraq" src="https://img.shields.io/badge/MADE%20IN-IRAQ-SCRIPT?colorA=black&colorB=red&colorC=black&style=for-the-badge"></a>
-  </p>
-
-###### <p align="center"> *Eye Scorpion*
-
-  <br>
-<a target="_blank" href="https://www.youtube.com/c/%D8%B3%D9%8A%D9%81%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D9%8A0/featured">
-<p align="center"><img title="سيفو الجنابي" src="res/iraq.png"  width="20%" height="60%" ></p>
-</a>
-
-
 ###### <p align="center"> GPS Location Tracker (Android, IOS, Windows phones.)
-<p align=center>
-  <a href="#"><img src="https://badges.pufler.dev/visits/seefu-x/EyeScorpion/">
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**seefu.x**](https://www.instagram.com/seefu.x/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/c/%D8%B3%D9%8A%D9%81%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D9%8A0/featured)✌*
+###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCEwbeJ7NS5s4GjfSMm9NFLA)🔐*
 
-## EYE SCORPION
+## emperor X 🔐🗝️🔓
 
 Concept behind scorpion.py is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on Seefu AL-janabi Blog eyescorpion.py Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
@@ -69,7 +51,7 @@ Available Templates :
 ### Basic For Beginners
 
 ```bash
-$ git clone https://github.com/seefu-x/EyeScorpion.git
+$ git clone https://github.com/Anonymous-Family/Be-smart-and-use-new-tricks.git
 $ cd EyeScorpion
 $ python3 EyeScorpion.py -t manual -k testkml
 ```
@@ -88,7 +70,7 @@ send link to victim
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/seefu-x/EyeScorpion.git
+git clone https://github.com/Anonymous-Family/Be-smart-and-use-new-tricks.git
 cd EyeScorpion
 apt update
 apt install python3 python3-pip php
@@ -104,7 +86,7 @@ pacman -S eyescorpion.py
 ### Termux
 
 ```bash
-git clone https://github.com/seefu-x/EyeScorpion.git
+git clone https://github.com/Anonymous-Family/Be-smart-and-use-new-tricks.git
 cd EyeScorpion
 pkg update
 pkg install python php
@@ -152,15 +134,13 @@ $ ./ngrok http 1337
 Usage of the tool for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
 -------------------------------------------------------------------------------------
-
-### Development by
-
-Developer / Author: [Seefu AL-janabi ](https://www.instagram.com/seefu.x/)
-
-<p align="center">
-<a href="https://www.instagram.com/seefu.x/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/seefu.janabi/"><img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.twitter.com/seefu_x/"><img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+## Follow on:
+<p align="left">
+<a href="https://github.com/Anonymous-Family"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left">
+<a href="https://www.facebook.com/kali14562/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+</p><p align="left">
+<a href="https://t.me/+cfFn8OTSF65jZDM0"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+</p><p align="left"> 
 
 -------------------------------------------------------------------------------------
